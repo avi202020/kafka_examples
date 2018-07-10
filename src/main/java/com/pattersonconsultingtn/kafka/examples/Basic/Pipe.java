@@ -1,4 +1,4 @@
-package com.pattersonconsultingtn.kafka.examples;
+package com.pattersonconsultingtn.kafka.examples.Basic;
 
 import org.apache.kafka.common.serialization.Serdes;
 import org.apache.kafka.streams.KafkaStreams;
