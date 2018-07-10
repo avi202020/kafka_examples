@@ -1,1 +1,0 @@
-Kafka Pollution Demo App
